@@ -1,0 +1,21 @@
+# Ignore raw/original audio files
+
+/originals/
+/scripts/
+
+# Optional: ignore any temporary or log files
+
+*.log
+*.tmp
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Optional: ignore backup or hidden files
+
+*~
