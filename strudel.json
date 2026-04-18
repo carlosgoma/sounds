@@ -1,0 +1,68 @@
+{
+    "_base": "https://raw.githubusercontent.com/carlosgoma/sounds/main/samples/",
+    "shfx": [
+        "shot_fx_ai_01.ogg",
+        "shot_fx_ai_02.ogg",
+        "shot_fx_ai_03.ogg",
+        "shot_fx_hit_01.ogg",
+        "shot_fx_hit_02.ogg",
+        "shot_fx_hit_03.ogg",
+        "shot_fx_hit_04.ogg",
+        "shot_fx_hit_05.ogg",
+        "shot_fx_hit_06.ogg",
+        "shot_fx_hit_07.ogg",
+        "shot_fx_hit_08.ogg",
+        "shot_fx_whoosh.ogg",
+        "shot_fx_zinger.ogg"
+    ],
+    "shdr": [
+        "shot_drum_dryHit.ogg",
+        "shot_drum_hit_01.ogg",
+        "shot_drum_hit_02.ogg",
+        "shot_drum_hit_03.ogg",
+        "shot_drum_maraca.ogg",
+        "shot_drum_maraca_02.ogg"
+    ],
+    "shbs": [
+        "shot_bass_drop_01.ogg",
+        "shot_bass_drop_02.ogg"
+    ],
+    "sham": [
+        "shot_amb_breath_01.ogg",
+        "shot_amb_breath_02.ogg",
+        "shot_amb_frog.ogg",
+        "shot_amb_water.ogg"
+    ],
+    "vox": [
+        "vox_amb_buddistChanting.ogg",
+        "vox_fx_evil.ogg",
+        "vox_fx_robot.ogg",
+        "vox_mel_capellaDark.ogg",
+        "vox_mel_capellaOpera.ogg",
+        "vox_mel_tribal.ogg"
+    ],
+    "txam": [
+        "tex_amb_birdsamazon_loop.ogg",
+        "tex_amb_crownsStorm.ogg",
+        "tex_amb_frogs_01.ogg",
+        "tex_amb_frogs_02.ogg",
+        "tex_amb_frogs_03.ogg",
+        "tex_amb_frogs_04.ogg",
+        "tex_amb_frogs_05.ogg",
+        "tex_amb_frogs_06.ogg",
+        "tex_amb_jungleMoves.ogg",
+        "tex_amb_jungle_01.ogg",
+        "tex_amb_jungle_02.ogg",
+        "tex_amb_rain_01.ogg",
+        "tex_amb_rain_02.ogg",
+        "tex_amb_water.ogg"
+    ],
+    "txbs": [
+        "tex_bass_drone.ogg"
+    ],
+    "txpe": [
+        "tex_perc_backyardStorm.ogg",
+        "tex_perc_gravel.ogg"
+    ]
+}
+
